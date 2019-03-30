@@ -1,9 +1,15 @@
 voldemort-monitor is an implementation of monitors for Voldemort key-value store
 
+Content  
+```
+predicatedetectionlib: implementation of the monitors
+
+voldemort: the Voldemort key-value store instrumented with the local predicate detector (see the paper for details)
+```  
 
 Contributions
 
-Voldemort key-value is available at https://www.project-voldemort.com/voldemort/quickstart.html
+The original Voldemort key-value store is available at https://www.project-voldemort.com/voldemort/quickstart.html
 
 Monitor implementation
 Duong Nguyen
